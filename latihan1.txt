@@ -1,1 +1,2 @@
 ini baris awal
+- Latihan 2: Menambah file index.html
